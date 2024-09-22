@@ -9,16 +9,17 @@
 
 ## Technologies and Skills:
 
-![HTML5](https://img.shields.io/badge/HTML5-FFFFFF?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-FFFFFF?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-FFFFFF?style=flat&logo=javascript)
-![SQL](https://img.shields.io/badge/SQL-FFFFFF?style=flat&logo=mysql)
-![C](https://img.shields.io/badge/C-FFFFFF?style=flat&logo=c)
-![C++](https://img.shields.io/badge/C++-FFFFFF?style=flat&logo=c%2B%2B)
-![Java](https://img.shields.io/badge/Java-FFFFFF?style=flat&logo=java)
-![Python](https://img.shields.io/badge/Python-FFFFFF?style=flat&logo=python)
-![DBMS](https://img.shields.io/badge/DBMS-FFFFFF?style=flat&logo=mysql)
-![Operating System](https://img.shields.io/badge/OS-FFFFFF?style=flat&logo=ubuntu)
+![HTML5](https://upload.wikimedia.org/wikipedia/commons/7/96/HTML5_logo_and_wordmark.svg)
+![CSS3](https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo_and_wordmark.svg)
+![JavaScript](https://upload.wikimedia.org/wikipedia/commons/9/99/JavaScript_logo_2.svg)
+![SQL](https://upload.wikimedia.org/wikipedia/commons/4/4e/SQL_Logo.svg)
+![C](https://upload.wikimedia.org/wikipedia/commons/3/3f/The_C_Programming_Language_logo.svg)
+![C++](https://upload.wikimedia.org/wikipedia/commons/1/18/C_plusplus_logo.svg)
+![Java](https://upload.wikimedia.org/wikipedia/en/3/30/Java_logo_and_wordmark.svg)
+![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
+![DBMS](https://upload.wikimedia.org/wikipedia/commons/1/14/Database_Management_System_Logo.svg)
+![Operating System](https://upload.wikimedia.org/wikipedia/commons/a/a5/Ubuntu_logo_1214.svg)
+
 
 
 
