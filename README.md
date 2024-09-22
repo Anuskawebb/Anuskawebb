@@ -3,7 +3,7 @@
 - 👀 I’m interested in *web development* and *Web 3* technologies.
 - 🌱 I’m currently learning *React* to enhance my front-end skills.
 - 💞 I’m looking to collaborate on *open-source projects* related to web development and Web 3. I'm excited to learn and contribute!
-- 📫 How to reach me: [Email](mailto:anuskaa0003@gmail.com) | [LinkedIn](www.linkedin.com/in/anuska-s)
+- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/anuska-s) | [Email](mailto:anuskaa0003@gmail.com)
 - 😄 Pronouns: *she/her*
 
 
