@@ -9,16 +9,16 @@
 
 ## Technologies and Skills:
 
-![HTML5](https://upload.wikimedia.org/wikipedia/commons/7/96/HTML5_logo_and_wordmark.svg)
-![CSS3](https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo_and_wordmark.svg)
-![JavaScript](https://upload.wikimedia.org/wikipedia/commons/9/99/JavaScript_logo_2.svg)
-![SQL](https://upload.wikimedia.org/wikipedia/commons/4/4e/SQL_Logo.svg)
-![C](https://upload.wikimedia.org/wikipedia/commons/3/3f/The_C_Programming_Language_logo.svg)
-![C++](https://upload.wikimedia.org/wikipedia/commons/1/18/C_plusplus_logo.svg)
-![Java](https://upload.wikimedia.org/wikipedia/en/3/30/Java_logo_and_wordmark.svg)
-![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
-![DBMS](https://upload.wikimedia.org/wikipedia/commons/1/14/Database_Management_System_Logo.svg)
-![Operating System](https://upload.wikimedia.org/wikipedia/commons/a/a5/Ubuntu_logo_1214.svg)
+![HTML5](https://cdn.iconscout.com/icon/free/png-256/html5-18-1175170.png)
+![CSS3](https://cdn.iconscout.com/icon/free/png-256/css3-24-1175194.png)
+![JavaScript](https://cdn.iconscout.com/icon/free/png-256/javascript-1174960.png)
+![SQL](https://cdn.iconscout.com/icon/free/png-256/sql-1174972.png)
+![C](https://cdn.iconscout.com/icon/free/png-256/c-1174961.png)
+![C++](https://cdn.iconscout.com/icon/free/png-256/cplusplus-1174964.png)
+![Java](https://cdn.iconscout.com/icon/free/png-256/java-1174968.png)
+![Python](https://cdn.iconscout.com/icon/free/png-256/python-1174965.png)
+![DBMS](https://cdn.iconscout.com/icon/free/png-256/database-1174963.png)
+![Operating System](https://cdn.iconscout.com/icon/free/png-256/linux-1174966.png)
 
 
 
