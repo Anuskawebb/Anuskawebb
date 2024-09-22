@@ -9,16 +9,16 @@
 
 ## Technologies and Skills:
 
-![HTML5](https://cdn.iconscout.com/icon/free/png-256/html5-18-1175170.png)
-![CSS3](https://cdn.iconscout.com/icon/free/png-256/css3-24-1175194.png)
-![JavaScript](https://cdn.iconscout.com/icon/free/png-256/javascript-1174960.png)
-![SQL](https://cdn.iconscout.com/icon/free/png-256/sql-1174972.png)
-![C](https://cdn.iconscout.com/icon/free/png-256/c-1174961.png)
-![C++](https://cdn.iconscout.com/icon/free/png-256/cplusplus-1174964.png)
-![Java](https://cdn.iconscout.com/icon/free/png-256/java-1174968.png)
-![Python](https://cdn.iconscout.com/icon/free/png-256/python-1174965.png)
-![DBMS](https://cdn.iconscout.com/icon/free/png-256/database-1174963.png)
-![Operating System](https://cdn.iconscout.com/icon/free/png-256/linux-1174966.png)
+![HTML5](https://img.shields.io/static/v1?label=&message=HTML5&color=E34F26&logo=html5&logoColor=white&style=flat)
+![CSS3](https://img.shields.io/static/v1?label=&message=CSS3&color=1572B6&logo=css3&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=F7DF1E&logo=javascript&logoColor=black&style=flat)
+![SQL](https://img.shields.io/static/v1?label=&message=SQL&color=4479A1&logo=mysql&logoColor=white&style=flat)
+![C](https://img.shields.io/static/v1?label=&message=C&color=00599C&logo=c&logoColor=white&style=flat)
+![C++](https://img.shields.io/static/v1?label=&message=C%2B%2B&color=00599C&logo=c%2B%2B&logoColor=white&style=flat)
+![Java](https://img.shields.io/static/v1?label=&message=Java&color=007396&logo=java&logoColor=white&style=flat)
+![Python](https://img.shields.io/static/v1?label=&message=Python&color=3776AB&logo=python&logoColor=white&style=flat)
+![DBMS](https://img.shields.io/static/v1?label=&message=DBMS&color=00758F&logo=mysql&logoColor=white&style=flat)
+![Operating System](https://img.shields.io/static/v1?label=&message=OS&color=4B8BBE&logo=ubuntu&logoColor=white&style=flat)
 
 
 
