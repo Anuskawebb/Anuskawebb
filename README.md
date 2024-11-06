@@ -17,7 +17,7 @@
 
 <h3 style="font-family: 'Poppins', sans-serif; color: #FFD700;">About Me:</h3>
 <ul style="font-family: 'Poppins', sans-serif; color: #404040;">
-  <li>🔭 I’m currently working on a <strong>Javascript News Application</strong> project.</li>
+
   <li>🌱 I’m learning <strong>React.js</strong> to build more interactive user interfaces.</li>
   <li>🎓 I have a CGPA of 9.0.</li>
   <li>👩‍💻 I love experimenting with new web technologies and building responsive designs.</li>
