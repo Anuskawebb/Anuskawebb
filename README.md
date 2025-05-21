@@ -18,12 +18,14 @@
 <h3 style="font-family: 'Poppins', sans-serif; color: #FFD700;">About Me:</h3>
 <ul style="font-family: 'Poppins', sans-serif; color: #404040;">
 
-  <li>🌱 I’m learning <strong>React.js</strong> to build more interactive user interfaces.</li>
+ <ul>
+  <li>🌱 I’m learning <strong>Solidity</strong> and <strong>React.js</strong> to build smart contracts and interactive user interfaces.</li>
   <li>🎓 I have a CGPA of 9.0.</li>
-  <li>👩‍💻 I love experimenting with new web technologies and building responsive designs.</li>
+  <li>👩‍💻 I love experimenting with new web and blockchain technologies, and building responsive designs.</li>
   <li>📫 How to reach me: <a href="mailto:anuskaa0003@gmail.com">anuskaa0003@gmail.com</a></li>
-  <li>🥱 Fun Fact: I think I am boring.</li>
+  <li>🥱 Fun Fact: I used to think I’m boring.</li>
 </ul>
+
 
 <h3 style="font-family: 'Poppins', sans-serif; color: #FFD700;">Connect with Me:</h3>
 <p>
