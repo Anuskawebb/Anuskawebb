@@ -19,7 +19,7 @@
 <ul style="font-family: 'Poppins', sans-serif; color: #404040;">
 
  <ul>
-  <li>🌱 I’m learning <strong>Solidity</strong> to build smart contracts.</li>
+  <li>🌱 I’m currently learning <strong>Solidity</strong> to build smart contracts.</li>
   <li>🎓 I have a CGPA of 9.0.</li>
   <li>👩‍💻 I love experimenting with new web and blockchain technologies, and building responsive designs.</li>
   <li>📫 How to reach me: <a href="mailto:anuskaa0003@gmail.com">anuskaa0003@gmail.com</a></li>
