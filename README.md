@@ -2,7 +2,7 @@
   Annyeong 👋, I'm Anuska Sarkar
 </h1>
 <h3 align="center" style="font-family: 'Poppins', sans-serif; color: #404040;">
-  A passionate frontend developer from India
+Aspiring Web3 Builder from India
 </h3>
 
 <p align="center">
